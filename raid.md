@@ -5,3 +5,5 @@ First step, go and click a rocket on DEX Screener: https://dexscreener.com/solan
 ### Now, you know what to do on X/Twitter:
 
 - https://x.com/sol_engineer/status/1852703033555116067
+- https://x.com/MrMoon2016/status/1852705176718876971
+- https://x.com/sol_engineer/status/1852721367751201029
