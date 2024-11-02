@@ -13,3 +13,5 @@ First step, go and click a rocket on DEX Screener: https://dexscreener.com/solan
 - https://x.com/sol_engineer/status/1852726948700508508
 - https://x.com/grindzhard/status/1852726647448854552
 - https://x.com/lilmutt32/status/1852718998280130767
+- https://x.com/lilmutt32/status/1852737121028845625
+- https://x.com/sol_engineer/status/1852732234932891810
