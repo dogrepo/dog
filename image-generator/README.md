@@ -12,7 +12,7 @@ export REPLICATE_API_TOKEN=...
 Then run your app:
 
 ```console
-npm start
+npm install && npm start
 ```
 
 ### Enjoy your illustrated image of a shiba-inu GHDOG!
